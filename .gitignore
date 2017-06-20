@@ -1,0 +1,9 @@
+img/
+js/bootstrap*
+js/jquery*
+js/tether*
+css/bootstrap*
+css/tether*
+*.jpg
+*.png
+
