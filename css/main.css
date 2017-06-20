@@ -20,10 +20,15 @@
 .sidebar{
 	margin-top: 20px;
 }
-.blog-posts{
-	margin: 10px;
+.blog-post p{
+	font-size: 12px;
 }
-.blog-posts h1{
+.blog-post a{
+	text-decoration: none;
+	font-size: 40px;
+}
+.blog-post-container{
+	margin: 10px;
 	text-align:center;
 }
 .slide-inside {
