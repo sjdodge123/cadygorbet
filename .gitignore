@@ -5,6 +5,7 @@ js/jquery*
 js/tether*
 css/bootstrap*
 css/tether*
+font-awesome-4.7.0/
 *.jpg
 *.png
 

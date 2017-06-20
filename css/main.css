@@ -1,3 +1,22 @@
+.title-div{
+	margin-top: 40px;
+	text-align: center;
+	font-size: 85px;
+	letter-spacing: 10px;
+	font-family: 'Pangolin', cursive;
+}
+.subtitle-div{
+	margin-bottom: 40px;
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 5px;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+.title-div a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #000000;
+}
 .sidebar{
 	margin-top: 20px;
 }
@@ -7,12 +26,11 @@
 .blog-posts h1{
 	text-align:center;
 }
-.carousel-item img{
-}
 .slide-inside {
+	padding-left: 0 !important;
+    padding-right: 0 !important;
 	height: 600px;
 }
-
 .slide-image{
 	position: absolute;
 	display: block;
@@ -27,6 +45,7 @@
 	color:black;
 	z-index: 1000;
 }
+
 #firstImage{
 	background-image:url(../img/example1.jpg);
 }
@@ -35,4 +54,20 @@
 }
 #thirdImage{
 	background-image:url(../img/example3.jpg);
+}
+
+@media screen and (max-width: 991px) {
+    .title-div{
+		margin-top: 20px;
+		font-size: 45px;
+		letter-spacing: 5px;
+	}
+	.subtitle-div{
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-bottom: 20px;
+		text-align: center;
+		font-size: 15px;
+		letter-spacing: 2px;
+	}
 }
