@@ -63,16 +63,22 @@
 
 @media screen and (max-width: 991px) {
     .title-div{
-		margin-top: 20px;
+    	margin-top: 15px;
 		font-size: 45px;
 		letter-spacing: 5px;
 	}
 	.subtitle-div{
 		margin-left: 0px;
 		margin-right: 0px;
-		margin-bottom: 20px;
+		margin-bottom: 15px;
 		text-align: center;
 		font-size: 15px;
-		letter-spacing: 2px;
+		letter-spacing: 0px;
+	}
+	.slide-inside {
+		height: 400px;
+	}
+	.slide-image {
+		height: 400px;
 	}
 }
