@@ -1,4 +1,4 @@
 option confirm off
 open sftp://ubuntu@ec2-34-228-10-17.compute-1.amazonaws.com
-synchronize -filemask=|".git/;" remote %curpath% /home/ubuntu/cadygorbet.com/
+synchronize -filemask=|".git/;" remote %curpath% /home/ubuntu/cadygorbet.com
 exit
