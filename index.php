@@ -1,36 +1,18 @@
 <!doctype html>
 <html>
-
 <head>
-<meta charset='utf-8'>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel='stylesheet' type='text/css' href='css/bootstrap.css'>
-<link rel='stylesheet' type='text/css' href='css/main.css'>
-<link href="https://fonts.googleapis.com/css?family=Pangolin" rel="stylesheet">
-<link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
-<title>Cady Gorbet</title>
-</head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel='stylesheet' type='text/css' href='css/bootstrap.css'>
+    <link rel='stylesheet' type='text/css' href='css/main.css'>
+    <link href="https://fonts.googleapis.com/css?family=Pangolin" rel="stylesheet">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
 
+    <title>Cady Gorbet</title>
+</head>
 <body>
     <!--Navbar-->
-    <header>
-        <nav class="navbar navbar-toggleable-md navbar-light" style="background-color: #e3f2fd;">
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <a class="navbar-brand" href="#">Cady Gorbet</a>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#about">About</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </header>
+    <?php include "header.php"; ?>
     <div class="container">
         <div class="row">
             <div class="col-12 title-div">
@@ -80,6 +62,9 @@
     <div class="container">
         <!--Body of site-->
         <div class="row">
+
+            <!-- Blog Posts -->
+
             <section class="col-md-8">
                 <div class="blog-post-container">
                     <div class="blog-post">
@@ -87,8 +72,16 @@
                         <a href="#">4th of July<img src="img/4th_Of_July/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
                         
                     </div>
+                    <div class="blog-post">
+                        <p>June 27, 2017</p>
+                        <a href="#">4th of July<img src="img/4th_Of_July/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
+                        
+                    </div>
                 </div>
             </section>
+
+            <!-- Sidebar -->
+
             <aside class="col-md-4 sidebar">
                 <div class="card ">
                     <div class="card-header">Example 1</div>
@@ -118,4 +111,10 @@
     <script type="text/javascript" src="js/tether.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"> </script>
 </body>
+<script>
+$(function(){
+  $("#nav-placeholder").load("header.html");
+});
+</script>
+
 </html>
