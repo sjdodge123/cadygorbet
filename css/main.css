@@ -5,6 +5,13 @@
 	letter-spacing: 10px;
 	font-family: 'Julius Sans One', sans-serif;
 }
+.post-title-div{
+	margin-top: 40px;
+	text-align: center;
+	font-size: 85px;
+	letter-spacing: 5px;
+	font-family: 'Julius Sans One', sans-serif;
+}
 .subtitle-div{
 	margin-bottom: 40px;
 	text-align: center;
@@ -17,14 +24,20 @@
 	text-decoration: none;
 	color: #000000;
 }
+.post-title-div a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #000000;
+}
 .sidebar{
 	margin-top: 20px;
 }
 .blog-post{
-	border-style:solid;
 	margin-bottom: 50px;
 }
-.blog-post p{
+.blog-post date{
+	text-transform: uppercase;
+	background-color: "white";
 	font-size: 20px;
 }
 .blog-post a{
@@ -34,7 +47,11 @@
 .blog-post-container{
 	margin: 10px;
 	text-align:center;
-
+}
+.blog-post-section{
+	margin-top:20px;
+	background-color: #e8effc;
+	border-top: solid;
 }
 .slide-inside {
 	padding-left: 0 !important;
@@ -72,6 +89,12 @@
 		font-size: 40px;
 		letter-spacing: 5px;
 	}
+	.post-title-div{
+    	margin-top: 15px;
+		font-size: 40px;
+		letter-spacing: 3px;
+	}
+
 	.subtitle-div{
 		margin-left: 0px;
 		margin-right: 0px;
