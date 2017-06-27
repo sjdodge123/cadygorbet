@@ -1,5 +1,5 @@
 .title-div{
-	margin-top: 40px;
+	margin-top: 80px;
 	text-align: center;
 	font-size: 85px;
 	letter-spacing: 10px;
@@ -50,7 +50,6 @@
 }
 .blog-post-section{
 	margin-top:20px;
-	background-color: #e8effc;
 	border-top: solid;
 }
 .slide-inside {
@@ -72,6 +71,11 @@
 	color:black;
 	z-index: 1000;
 }
+#navigationBar{
+	background:#d320ea;
+    opacity: 0.8;          
+    filter:(opacity=80);
+}
 
 #firstImage{
 	background-image:url(../img/example1.jpg);
@@ -85,7 +89,7 @@
 
 @media screen and (max-width: 991px) {
     .title-div{
-    	margin-top: 15px;
+    	margin-top: 60px;
 		font-size: 40px;
 		letter-spacing: 5px;
 	}

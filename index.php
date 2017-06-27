@@ -59,7 +59,7 @@
                         <div class="blog-post">
                             <p><date>June 20, 2017</date></p>
                             
-                            <a href="content/posts/4th-of-july.php">4th of July<img src="img/4th_Of_July/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
+                            <a href="content/posts/4th_Of_July/4th-of-july.php">Patriotic Summer Décor<img src="content/posts/4th_Of_July/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
                             <tags>DECOR | AMERICA | HOLIDAY</tags>
                             <summary>See how I stylized my home for the big day!</summary>
                         </div>
@@ -71,22 +71,7 @@
                 </section>
 
                 <!-- Sidebar -->
-
-                <aside class="col-md-4 sidebar">
-                    <div class="card ">
-                        <div class="card-header">Example 1</div>
-                        <div class="card-block">
-                            <img src="img/example1.jpg" alt="fruits" class="img-fluid">
-                        </div>
-                    </div>
-
-                    <div class="card">
-                        <div class="card-header">Example 2</div>
-                        <div class="card-block">
-                            <img src="img/example2.jpg" alt="fruits" class="img-fluid">
-                        </div>
-                    </div>
-                </aside>
+                <?php include "sidebar.php"; ?>
             </div>
             <div class="row">
                 <footer class="col-12">
