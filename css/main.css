@@ -1,36 +1,56 @@
 .title-div{
 	margin-top: 80px;
 	text-align: center;
-	font-size: 85px;
+	font-size: 90px;
 	letter-spacing: 10px;
-	font-family: 'Julius Sans One', sans-serif;
-}
-.post-title-div{
-	margin-top: 40px;
-	text-align: center;
-	font-size: 85px;
-	letter-spacing: 5px;
-	font-family: 'Julius Sans One', sans-serif;
+	font-family: 'News Cycle', sans-serif;
+	font-variant: small-caps;
 }
 .subtitle-div{
 	margin-bottom: 40px;
 	text-align: center;
 	font-size: 30px;
 	letter-spacing: 5px;
-	font-family: "Times New Roman", Georgia, Serif;
+	font-family: 'News Cycle', sans-serif;
+}
+.post-title-div{
+	margin-top: 60px;
+	text-align: center;
+	font-size: 85px;
+	letter-spacing: 5px;
+	border-bottom: solid;
+	font-family: 'News Cycle', sans-serif;
+	font-variant: small-caps;
 }
 .title-div a{
-	text-transform: uppercase;
 	text-decoration: none;
 	color: #000000;
 }
 .post-title-div a{
-	text-transform: uppercase;
 	text-decoration: none;
 	color: #000000;
 }
 .sidebar{
 	margin-top: 20px;
+}
+.blog-text {
+	margin-top: 25px;
+	margin-bottom: 15px;
+}
+.blog-text p{
+	text-align: justify;
+	font-size: 23px;
+	font-family: 'Rokkitt', serif;
+}
+.blog-image {
+	display: block;
+    margin: auto;
+}
+.line-break-top {
+	border-top: solid;
+}
+.line-break-bottom {
+	border-bottom: solid;
 }
 .blog-post{
 	margin-bottom: 50px;
@@ -94,8 +114,8 @@
 		letter-spacing: 5px;
 	}
 	.post-title-div{
-    	margin-top: 60px;
-		font-size: 40px;
+    	margin-top: 70px;
+		font-size: 55px;
 		letter-spacing: 3px;
 	}
 

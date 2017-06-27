@@ -6,15 +6,14 @@
     <div class="container">
         <div class="row">
             <div class="col-12 post-title-div">
-                <a href="">About</a>
+                <a href="about.php">About</a>
             </div>
         </div>
     </div>
 
     <div class="container">
-
     	<div class="row">
-    		<div class="col-12">
+    		<div class="col-12 blog-text">
     			<p>Hi, and welcome to my blog!</p>
     			<p>So, my fiancé and I moved into our first house together in October of 2016. Though stressful and, 
     				at times, an overwhelming undertaking, I was very excited to have our own blank canvas to fill and make into a home.</p>
@@ -32,17 +31,29 @@
 					huge goal for me is to be able to communicate, share, and learn new things through my work on this blog.</p>
 
 				<p>I’m excited to finally be hosting a creative outlet for my hobbies, and I hope you enjoy!</p>
+    		</div>
+    	</div>
 
+    	<div class="row">
+    		<div class="col-12 line-break-top">
+    			<br/>
     		</div>
     	</div>
 
     	<div class="row">
     		<div class="col-12">
-    			<img src="img/cady.jpg" alt="Cady Gorbet Profile" class="img-fluid">
+    			<img src="img/cady.jpg" alt="Cady Gorbet Profile" class="img-fluid blog-image">
     		</div>
     	</div>
+
     	<div class="row">
-    		<div class="col-12">
+    		<div class="col-12 line-break-bottom">
+    			<br/>
+    		</div>
+    	</div>
+
+    	<div class="row">
+    		<div class="col-12 blog-text">
     			<p>Hello, my name is Cady. I have a bachelor’s degree in English. My interests include DIY projects,
     			   home décor, lifestyle, photography, movies, and I am very family oriented. I wouldn’t consider myself
     			    to be inherently creative, but I love creating things. If I see something I like, I’ll try to make it 
