@@ -86,7 +86,10 @@ html a:hover{
 	border-width: 1.5px;
 }
 .blog-post{
-	margin-bottom: 50px;
+	margin-top: 20px;
+	padding-bottom: 40px;
+	border-bottom: solid;
+	border-width: 2px;
 }
 .blog-post date{
 	text-transform: uppercase;
@@ -94,7 +97,7 @@ html a:hover{
 	font-size: 20px;
 }
 .blog-post a{
-	font-size: 40px;
+	font-size: 60px;
 	font-family: 'Rokkitt', serif;
 	font-variant: small-caps;
 }

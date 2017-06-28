@@ -69,16 +69,14 @@
                 <!-- Blog Posts -->
                 <section class="col-md-8">
                     <div class="blog-post-container">
+
                         <div class="blog-post">
                             <p><date>June 20, 2017</date></p>
-                            
                             <a href="content/posts/4th_Of_July/4th-of-july.php">Patriotic Summer Décor<img src="content/posts/4th_Of_July/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
-                            <tags>DECOR | AMERICA | HOLIDAY</tags>
-                            <summary>See how I stylized my home for the big day!</summary>
                         </div>
                         <div class="blog-post">
                             <p><date>June 26, 2017</date></p>
-                            <a href="#">4th of July<img src="img/4th_Of_July/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a> 
+                            <a href="content/posts/4th_Of_July/4th-of-july.php">Patriotic Summer Décor<img src="content/posts/4th_Of_July/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
                         </div>
                     </div>
                 </section>
