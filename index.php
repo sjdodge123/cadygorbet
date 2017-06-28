@@ -69,14 +69,13 @@
                 <!-- Blog Posts -->
                 <section class="col-md-8">
                     <div class="blog-post-container">
-
                         <div class="blog-post">
                             <p><date>June 20, 2017</date></p>
-                            <a href="content/posts/4th_Of_July/4th-of-july.php">Patriotic Summer Décor<img src="content/posts/4th_Of_July/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
+                            <a href="content/posts/Patriotic_Summer_Decor/Patriotic_Summer_Decor.php">Patriotic Summer Décor<img src="content/posts/Patriotic_Summer_Decor/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
                         </div>
                         <div class="blog-post">
-                            <p><date>June 26, 2017</date></p>
-                            <a href="content/posts/4th_Of_July/4th-of-july.php">Patriotic Summer Décor<img src="content/posts/4th_Of_July/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
+                            <p><date>July 7, 2017</date></p>
+                            <a href="content/posts/4th_Of_July_Cookout/4th_Of_July_Cookout.php">4th of July Cookout<img src="content/posts/4th_Of_July_Cookout/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
                         </div>
                     </div>
                 </section>
