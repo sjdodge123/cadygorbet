@@ -53,9 +53,43 @@ html a:hover{
 	text-decoration: none;
 	color: #000000;
 }
+.blog-post{
+	margin-top: 20px;
+	padding-bottom: 40px;
+	border-bottom: solid;
+	border-width: 2px;
+}
+.blog-post date{
+	text-transform: uppercase;
+	background-color: "white";
+	font-size: 20px;
+}
+.blog-post a{
+	font-size: 60px;
+	font-family: 'Rokkitt', serif;
+	font-variant: small-caps;
+}
+.blog-post-container{
+	margin: 10px;
+	text-align:center;
+}
+.blog-post-section{
+	margin-top:20px;
+}
 .sidebar{
 	margin-top: 20px;
 }
+.sidebar{
+	font-size: 25px;
+	text-align:center;
+	text-transform: uppercase;
+}
+.sidebar a{
+	font-size: 20px;
+	text-align:center;
+	text-transform: none;
+}
+
 .blog-text {
 	margin-top: 25px;
 	margin-bottom: 15px;
@@ -77,6 +111,10 @@ html a:hover{
 	display: block;
     margin: auto;
 }
+.blog-text .center p{
+	text-align: center !important;
+}
+
 .line-break-top {
 	border-top: solid;
 	border-width: 1.5px;
@@ -85,30 +123,7 @@ html a:hover{
 	border-bottom: solid;
 	border-width: 1.5px;
 }
-.blog-post{
-	margin-top: 20px;
-	padding-bottom: 40px;
-	border-bottom: solid;
-	border-width: 2px;
-}
-.blog-post date{
-	text-transform: uppercase;
-	background-color: "white";
-	font-size: 20px;
-}
-.blog-post a{
-	font-size: 60px;
-	font-family: 'Rokkitt', serif;
-	font-variant: small-caps;
-}
 
-.blog-post-container{
-	margin: 10px;
-	text-align:center;
-}
-.blog-post-section{
-	margin-top:20px;
-}
 .slide-inside {
 	padding-left: 0 !important;
     padding-right: 0 !important;
@@ -200,5 +215,8 @@ html a:hover{
 	}
 	.blog-post{
 		margin-bottom: 30px;
+	}
+	#cady-brand{
+		display:none;
 	}
 }
