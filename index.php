@@ -7,7 +7,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 title-div">
-                <a href="">Cady Gorbet</a>
+                <a href="index.php">Cady Gorbet</a>
             </div>
         </div>
         <div class="row">
@@ -17,6 +17,12 @@
         </div>
     </div>
     <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 line-break-top">
+                <br/>
+            </div>
+        </div>
+
         <!--Image carousel-->
         <div class="row">
             <div class="col-sm-12">
@@ -48,6 +54,13 @@
                 </div>
             </div>
         </div>
+
+        <div class="row">
+            <div class="col-12 line-break-bottom">
+                <br/>
+            </div>
+        </div>
+
     </div>
     <div class="blog-post-section">
         <div class="container">
@@ -87,6 +100,7 @@
 $(function(){
   $("#nav-placeholder").load("header.html");
 });
+
 </script>
 
 </html>

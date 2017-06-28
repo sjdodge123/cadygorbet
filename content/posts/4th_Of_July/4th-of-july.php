@@ -14,6 +14,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
+                <br/>
     	       <a href="thumbnail.jpg" data-toggle="lightbox" data-gallery="the4th" data-type="image"><img src="thumbnail.jpg" alt="Patriotic Summer Décor" class="img-fluid"></a>
             </div>
         </div>
@@ -22,7 +23,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-8 blog-text">
                 <p>The 4th of July is probably my second favorite holiday, 
                     after Christmas. I love summer time and hanging outside 
                     on summer evenings. And the 4th is that plus family, food, 
@@ -156,7 +157,6 @@
                 <a href="thed.jpg" data-toggle="lightbox" data-gallery="the4th" data-type="image"><img src="thed.jpg" alt="flag decorated wooden letter" class="img-fluid"></a>
 
                 <br/>
-                <br/>
 
                 <p>I finished off the front porch with two flags in our flower 
                     pots to frame the doorway.</p>
@@ -173,9 +173,14 @@
                     roughly until Labor Day. Because we will be hosting a 4th of 
                     July cookout this year, I’ll have another post where I share 
                     some of my additional party décor. Hope you enjoyed!</p>
+                
             </div>
             <?php include "../postSidebar.php"; ?>
-        </div>
+
+        </div>   
+    </div>
+    <div class="container">
+        <div class="line-break-top"><br/></div>
     </div>
 
 

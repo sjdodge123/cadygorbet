@@ -1,9 +1,9 @@
 <header>
-        <nav id="navigationBar" class="navbar fixed-top navbar-toggleable-md navbar-light">
+        <nav id="navigationBar" class="navbar navbar-default fixed-top navbar-toggleable-md navbar-light">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand" href="../../../index.php">Cady Gorbet</a>
+            <a class="navbar-brand" href="index.php">Cady Gorbet</a>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
