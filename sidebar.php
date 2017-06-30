@@ -11,7 +11,7 @@
                         </a>
                     </div>
                     <div class="col-6">
-                        <a href="http://instagram.com/cadygorbet>">
+                        <a href="http://instagram.com/cadygorbet/">
                             <i class=" fa fa-instagram" aria-hidden="true"></i>
                             <p>Instagram</p>
                         </a>

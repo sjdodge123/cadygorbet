@@ -8,6 +8,16 @@ html a:hover{
 	text-decoration: none;
 	color: #ff99ec;
 }
+body{
+	margin-bottom: 100px;
+}
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+
 .title-div{
 	margin-top: 100px;
 	text-align: center;
@@ -55,7 +65,7 @@ html a:hover{
 }
 .blog-post{
 	margin-top: 20px;
-	padding-bottom: 40px;
+	padding-bottom: 20px;
 	border-bottom: solid;
 	border-width: 2px;
 }
@@ -68,6 +78,10 @@ html a:hover{
 	font-size: 60px;
 	font-family: 'Rokkitt', serif;
 	font-variant: small-caps;
+}
+.blog-post-socials {
+	margin-top: 5px;
+	text-align: left !important;
 }
 .blog-post-container{
 	margin: 10px;

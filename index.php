@@ -86,14 +86,7 @@
             </div>
         </div>
     </div>
-
+    
     <?php include "includes.php"; ?>
 </body>
-<script>
-$(function(){
-  $("#nav-placeholder").load("header.html");
-});
-
-</script>
-
 </html>
