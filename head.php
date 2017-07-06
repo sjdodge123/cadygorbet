@@ -1,6 +1,5 @@
 <head>
     <meta charset='utf-8'>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel='stylesheet' type='text/css' href='css/bootstrap.css'>
     <link rel='stylesheet' type='text/css' href='css/main.css'>
     <link href="https://fonts.googleapis.com/css?family=News+Cycle|Rokkitt" rel="stylesheet">
@@ -13,6 +12,8 @@
 	    enable_page_level_ads: true
 	  });
 	</script>
+
+    <?php include_once("analyticstracking.php") ?>
     
     <title>Cady Gorbet</title>
 </head>

@@ -1,5 +1,6 @@
 html a{
 	color: #000000;
+	text-decoration: none;
 	transition: all 50ms linear;
 	transition-delay: 50ms; /* delays for 1 second */
 	-webkit-transition-delay: 50ms; /* for Safari & Chrome */
@@ -9,12 +10,12 @@ html a:hover{
 	color: #ff99ec;
 }
 body{
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 }
 footer {
     position: fixed;
-    height: 100px;
-    bottom: 0;
+    height: 50px;
+    bottom: 0px;
     width: 100%;
 }
 
@@ -80,8 +81,11 @@ footer {
 	font-variant: small-caps;
 }
 .blog-post-socials {
-	margin-top: 5px;
+	margin-top: 10px;
 	text-align: left !important;
+}
+.fb_iframe_widget span{
+	vertical-align:inherit !important;
 }
 .blog-post-container{
 	margin: 10px;
@@ -192,6 +196,10 @@ footer {
 }
 #thirdImage{
 	background-image:url(../img/example3.jpg);
+}
+
+@media screen and (max-width: 1300px) {
+
 }
 
 @media screen and (max-width: 991px) {

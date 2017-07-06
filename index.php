@@ -89,4 +89,18 @@
     
     <?php include "includes.php"; ?>
 </body>
+<footer class="navbar-fixed-bottom navbar-default">
+    <div class="container">
+        <div class="blog-post-socials">
+            <a class="twitter-share-button" 
+            href="https://twitter.com/intent/tweet?text=Check%20out&hashtags=homedecor,diy,lifestyle&url=http%3A%2F%2Fcadygorbet.com%2F"
+            data-size="large"
+            link rel="canonical"
+            ></a>
+            <a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a>
+            <div class="fb-like" data-href="http://www.cadygorbet.com/" data-width="50" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+        </div>
+        
+    </div>
+</footer>
 </html>

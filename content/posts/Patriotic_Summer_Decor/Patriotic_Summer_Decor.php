@@ -1,6 +1,20 @@
 <html>
 <?php include "../postHead.php"; ?>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <body>
+
+
+
+
+    
 <!--Navbar-->
 <?php include "../postNavigation.php"; ?>
 
@@ -196,22 +210,26 @@
 </div>
     <div class="container">
         <div class="line-break-top"><br/></div>
+        <div class="row">
+            <div class="col-12">
+                <div class="fb-comments" data-href="http://cadygorbet.com/content/posts/Patriotic_Summer_Decor/Patriotic_Summer_Decor.php" data-numposts="2"></div>
+            </div>
+        </div>
     </div>
+
     <?php include "../postIncludes.php"; ?>
 </body>
 <footer class="navbar-fixed-bottom navbar-default">
     <div class="container">
-        <span class="text-muted">
-            <div class="blog-post-socials">
-                <a class="twitter-share-button" 
-                href="https://twitter.com/intent/tweet?text=Summer%20Decor&hashtags=4thofjuly,patrioticdecor,summerdecor&url=http%3A%2F%2Fcadygorbet.com%2Fcontent%2Fposts%2FPatriotic_Summer_Decor%2FPatriotic_Summer_Decor.php"
-                data-size="large"
-                link rel="canonical"
-                ></a>
-                <a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a>
-                <div class="fb-like" data-href="http://www.cadygorbet.com/content/posts/Patriotic_Summer_Decor/Patriotic_Summer_Decor.php" data-width="80" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
-            </div>
-            ©Copyright 2017</span>
+        <div class="blog-post-socials">
+            <a class="twitter-share-button" 
+            href="https://twitter.com/intent/tweet?text=Summer%20Decor&hashtags=4thofjuly,patrioticdecor,summerdecor&url=http%3A%2F%2Fcadygorbet.com%2Fcontent%2Fposts%2FPatriotic_Summer_Decor%2FPatriotic_Summer_Decor.php"
+            data-size="large"
+            link rel="canonical"
+            ></a>
+            <a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a>
+            <div class="fb-like" data-href="http://www.cadygorbet.com/content/posts/Patriotic_Summer_Decor/Patriotic_Summer_Decor.php" data-width="50" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+        </div>
     </div>
 </footer>
 </html>
