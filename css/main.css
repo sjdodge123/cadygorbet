@@ -7,7 +7,7 @@ html a{
 }
 html a:hover{
 	text-decoration: none;
-	color: #ff99ec;
+	color: #f06292;
 }
 body{
 	margin-bottom: 50px;
@@ -181,10 +181,10 @@ footer {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    color: #ff99ec;
+    color: #f06292;
 }
 .navbar-default .navbar-nav > .nav-item > .nav-link:hover{
-    color: #ff99ec;
+    color: #f06292;
 }
 
 
