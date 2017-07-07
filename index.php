@@ -1,6 +1,9 @@
 <!doctype html>
 <html>
-<?php include "head.php"; ?>
+<head>
+    <title>Cady Gorbet</title>
+    <?php include "head.php"; ?>
+</head>
 <body>
     <!--Navbar-->
     <?php include "navigation.php"; ?>

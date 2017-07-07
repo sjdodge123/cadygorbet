@@ -1,5 +1,8 @@
 <html>
-<?php include "head.php"; ?>
+<head>
+    <title>About - Cady Gorbet</title>
+    <?php include "head.php"; ?>
+</head>
 <body>
 	<!--Navbar-->
     <?php include "navigation.php"; ?>

@@ -1,10 +1,14 @@
 <html>
-<?php include "../postHead.php"; ?>
-<meta property="og:image" content="thumbnail.jpg"/>
-<meta property="og:title" content="4th of July Cookout"/>
-<meta property="og:image:width" content="1430"/>
-<meta property="og:image:height" content="648"/>
-<meta property="og:type" content="website"/>
+<head>
+    <title>4th of July Cookout</title>
+    <meta property="og:image" content="thumbnail.jpg"/>
+    <meta property="og:title" content="4th of July Cookout"/>
+    <meta property="og:image:width" content="1430"/>
+    <meta property="og:image:height" content="648"/>
+    <meta property="og:type" content="website"/>
+    <?php include "../postHead.php"; ?>
+</head>
+
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
