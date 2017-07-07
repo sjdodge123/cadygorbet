@@ -1,5 +1,11 @@
 <html>
 <?php include "../postHead.php"; ?>
+<meta property="og:image" content="thumbnail.jpg"/>
+<meta property="og:title" content="Patriotic Summer Décor"/>
+<meta property="og:image:width" content="1430"/>
+<meta property="og:image:height" content="648"/>
+<meta property="og:type" content="website"/>
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -67,7 +73,7 @@
                 cute ones these past few weeks from a couple different places, 
                 and I’m very happy with how they all look together.</p>
             <a href="pillows.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor">
-                <img src="pillows.jpg" alt="pillows" class="img-fluid">
+                <img src="pillows.jpg" alt="patriotic pillows, summer home decor" class="img-fluid">
             </a>
             <div class="center">
                 <p>Red brave pillow – Lowes</p> 
@@ -80,10 +86,10 @@
 
             <p>I’ve played around with them a bit, but this is how I currently have them styled.</p>
             <a href="couch.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image">
-                <img src="couch.jpg" alt="pillows" class="img-fluid">
+                <img src="couch.jpg" alt="patriotic pillows" class="img-fluid">
             </a>
-            <a href="couch2.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="couch2.jpg" alt="pillows" class="img-fluid"></a>
-            <a href="livingroom.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="livingroom.jpg" alt="pillows" class="img-fluid"></a>
+            <a href="couch2.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="couch2.jpg" alt="flag pillow, chevron patriotic pillow" class="img-fluid"></a>
+            <a href="livingroom.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="livingroom.jpg" alt="red, white, and blue pillows, home decor" class="img-fluid"></a>
             <p>The chevron pillow case was inspired by a <a href="https://www.pinterest.com/pin/415034921901281705/">picture I came across on Pinterest.</a>
                 I prefer the bow and larger chevron pattern that are in the original picture, 
                 but mine cost me $3 to make. I bought two red chevron fat quarters from Wal-Mart for $1 each, 
@@ -97,16 +103,16 @@
                 from the dollar section in Target and I’ve just stuck them all 
                 around the house, mostly in plants. Simple. Easy. Cute.</p>
             <a href="IMG_3499.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image">
-                <img src="IMG_3499.jpg" alt="flag1" class="img-fluid">
+                <img src="IMG_3499.jpg" alt="American flag, cotton, home decor" class="img-fluid">
             </a>
             <a href="IMG_3500.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image">
-                <img src="IMG_3500.jpg" alt="flag2" class="img-fluid">
+                <img src="IMG_3500.jpg" alt="American flag decor" class="img-fluid">
             </a>
             <a href="IMG_3503.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image">
-                <img src="IMG_3503.jpg" alt="flag3" class="img-fluid">
+                <img src="IMG_3503.jpg" alt="Amreican flag, 4th of July decor" class="img-fluid">
             </a>
             <a href="IMG_3504.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image">
-                <img src="IMG_3504.jpg" alt="flag4" class="img-fluid">
+                <img src="IMG_3504.jpg" alt="American flag, patriotic decor" class="img-fluid">
             </a>
 
             <br/>
@@ -123,15 +129,15 @@
                 In fact, I would love something like this in pumpkin and Christmas 
                 tree shapes as well, so maybe I’ll have to try making some 
                 for other seasons...</p>
-            <a href="stars.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="stars.jpg" alt="stars" class="img-fluid"></a>
+            <a href="stars.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="stars.jpg" alt="rustic wooden stars, 4th of July decor" class="img-fluid"></a>
             <p>I put them on our sofa table, and I think they go great with the 
                 wooden sign I have there.</p>
-            <a href="hutch.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="hutch.jpg" alt="hutch" class="img-fluid"></a>
-            <a href="hutch2.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="hutch2.jpg" alt="hutch" class="img-fluid"></a>
+            <a href="hutch.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="hutch.jpg" alt="4th of July decor" class="img-fluid"></a>
+            <a href="hutch2.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="hutch2.jpg" alt="4th of July home decor, rustic decor" class="img-fluid"></a>
             <p>Along with the stars and the little American flag I stuck in the 
                 cotton, I strung up some lights ($3 section of Target) to 
                 finish off the table. </p>
-            <a href="glowies.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="glowies.jpg" alt="glowing stars" class="img-fluid"></a>
+            <a href="glowies.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="glowies.jpg" alt="4th of July, red white and blue stars, string lights" class="img-fluid"></a>
             <br/>
             <br/>
             <p>When we were house hunting last year, I remember that a front 
@@ -149,7 +155,7 @@
                 for about a month, and so far they’ve held up through any wind and rain 
                 we’ve had.</p>
 
-            <a href="frontporch.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="frontporch.jpg" alt="frontporch flag bunting" class="img-fluid"></a>
+            <a href="frontporch.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="frontporch.jpg" alt="red white and blue flag bunting for 4th of July" class="img-fluid"></a>
 
             <p>I was in Wal-Mart, and I found that they carry one of the same exact bunting 
                 styles as Michaels for cheaper. They also have a triangle flag print made 
@@ -166,7 +172,7 @@
                 because I had about 15 of these things, but I love how they look, and I 
                 also got some for my mom to line her walkway as well. </p> 
 
-            <a href="yardstar.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="yardstar.jpg" alt="star in front yard" class="img-fluid"></a>
+            <a href="yardstar.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="yardstar.jpg" alt="metal star yard stake, 4th of July decor" class="img-fluid"></a>
 
             <br/>
             <br/>
@@ -185,18 +191,18 @@
                 cute. I made one for my mom as well. This is hanging on the house 
                 outside our front door. </p>
 
-            <a href="thed.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="thed.jpg" alt="flag decorated wooden letter" class="img-fluid"></a>
+            <a href="thed.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="thed.jpg" alt="American flag wooden letter, 4th of July monogram letter" class="img-fluid"></a>
 
             <br/>
 
             <p>I finished off the front porch with two flags in our flower 
                 pots to frame the doorway.</p>
 
-            <a href="frontdoor.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="frontdoor.jpg" alt="front porch with two decorated potted plants" class="img-fluid"></a>
+            <a href="frontdoor.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="frontdoor.jpg" alt="front porch summer decor, American flag decor" class="img-fluid"></a>
             <br/>
             <br/>
             <p>Here’s how it all looks together.</p>
-            <a href="fullfrontporch.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="fullfrontporch.jpg" alt="front of house with full decor" class="img-fluid"></a>
+            <a href="fullfrontporch.jpg" data-toggle="lightbox" data-gallery="Patriotic_Decor" data-type="image"><img src="fullfrontporch.jpg" alt="4th of July decor" class="img-fluid"></a>
             <br/>
             <br/>
 

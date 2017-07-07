@@ -1,5 +1,11 @@
 <html>
 <?php include "../postHead.php"; ?>
+<meta property="og:image" content="thumbnail.jpg"/>
+<meta property="og:title" content="4th of July Cookout"/>
+<meta property="og:image:width" content="1430"/>
+<meta property="og:image:height" content="648"/>
+<meta property="og:type" content="website"/>
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -81,19 +87,19 @@
             <p>One of my favorite desserts had to be the mini mason jar pies I made. I got the recipe off of a video I saw on <a href="https://www.youtube.com/watch?v=7umDrAzKlZI">Youtube</a> last year, and they’re the cutest things. I actually made them for the first time last year and decided to make them again for our cookout this year. </p>
             <a href="mason_jar_pies_1.jpg" data-toggle="lightbox" data-gallery="4th_of_July_Cookout" data-type="image"><img src="mason_jar_pies_1.jpg" alt="mini patriotic mason jar pies" class="img-fluid"></a>
 
-            <a href="mason_jar_pies_2.jpg" data-toggle="lightbox" data-gallery="4th_of_July_Cookout" data-type="image"><img src="mason_jar_pies_2.jpg" alt="4t of July mini patriotic mason jar pies" class="img-fluid"></a>
+            <a href="mason_jar_pies_2.jpg" data-toggle="lightbox" data-gallery="4th_of_July_Cookout" data-type="image"><img src="mason_jar_pies_2.jpg" alt="4th of July mini patriotic mason jar pies" class="img-fluid"></a>
             <p>They’re easy to make (using premade pie crust and cans of pie filling), but dressing them up for the holiday made them extra festive.</p>
         
             <p>My aunt also made some <a href="https://www.pinterest.com/pin/288511919870342542/">Jell-O firecracker cups</a> and red, white, and blue cookies to add to our themed desserts.</p>
             <a href="jello_firecrackers.jpg" data-toggle="lightbox" data-gallery="4th_of_July_Cookout" data-type="image"><img src="jello_firecrackers.jpg" alt="4th of July themed jello firecrackers" class="img-fluid"></a>
 
-            <a href="dessert_table.jpg" data-toggle="lightbox" data-gallery="4th_of_July_Cookout" data-type="image"><img src="dessert_table.jpg" alt="4t of July mini patriotic mason jar pies" class="img-fluid"></a>
+            <a href="dessert_table.jpg" data-toggle="lightbox" data-gallery="4th_of_July_Cookout" data-type="image"><img src="dessert_table.jpg" alt="4th of July desserts and snacks" class="img-fluid"></a>
             <br/>
             <br/>
             <p>We had a classic rock station playing on Pandora, and we all chipped in to get some fireworks. I had bomb pops to eat during the fireworks, too, but unfortunately I forgot about them. </p>
             <a href="fireworks.jpg" data-toggle="lightbox" data-gallery="4th_of_July_Cookout" data-type="image"><img src="fireworks.jpg" alt="4th of July watching fireworks" class="img-fluid"></a>
 
-            <a href="sparkler.jpg" data-toggle="lightbox" data-gallery="4th_of_July_Cookout" data-type="image"><img src="sparkler.jpg" alt="4t of July sparkler" class="img-fluid"></a>
+            <a href="sparkler.jpg" data-toggle="lightbox" data-gallery="4th_of_July_Cookout" data-type="image"><img src="sparkler.jpg" alt="4th of July sparkler" class="img-fluid"></a>
             <br/>
             <p>I’m so happy that everything turned out nice. Everyone had a great time, and it was wonderful to spend the day celebrating with family.  </p>
         </div>
@@ -115,11 +121,12 @@
     <div class="container">
         <div class="blog-post-socials">
             <a class="twitter-share-button" 
-            href="https://twitter.com/intent/tweet?text=4th%20of%20July%20Party&hashtags=4thofjuly, 4thofjulycookout, partydecor&url=http%3A%2F%2Fcadygorbet.com%2Fcontent%2Fposts%2F4th_of_July_Cookout%2F4th_of_July_Cookout.php"
+            href="https://twitter.com/intent/tweet?text=4th%20of%20July%20Party&hashtags=4thofjuly,4thofjulycookout,partydecor&url=http%3A%2F%2Fcadygorbet.com%2Fcontent%2Fposts%2F4th_of_July_Cookout%2F4th_of_July_Cookout.php"
             data-size="large"
             link rel="canonical"
             ></a>
             <a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a>
+
             <div class="fb-like" data-href="http://www.cadygorbet.com/content/posts/4th_of_July_Cookout/4th_of_July_Cookout.php" data-width="50" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
         </div>
     </div>
