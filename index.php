@@ -73,6 +73,10 @@
                 <section class="col-md-8">
                     <div class="blog-post-container">
                         <div class="blog-post">
+                            <p><date>July 25, 2017</date></p>
+                            <a href="content/posts/Craft_Storage_and_Organization/Craft_Storage_and_Organization.php">Craft Storage and Organization<img src="content/posts/Craft_Storage_and_Organization/thumbnail.jpg" alt="Craft_Storage_and_Organization" class="img-fluid"></a>
+                        </div>
+                        <div class="blog-post">
                             <p><date>July 6, 2017</date></p>
                             <a href="content/posts/4th_of_July_Cookout/4th_of_July_Cookout.php">4th of July Cookout<img src="content/posts/4th_of_July_Cookout/thumbnail.jpg" alt="4th of July Cookout" class="img-fluid"></a>
                         </div>

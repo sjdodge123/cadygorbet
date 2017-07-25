@@ -31,7 +31,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12 post-title-div">
-            <a href="">Patriotic Summer Décor</a>
+            <a href=""><p>Patriotic Summer Décor</p></a>
         </div>
     </div>
 </div>

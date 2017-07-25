@@ -1,4 +1,5 @@
 html a{
+	line-height: 88%;
 	color: #000000;
 	text-decoration: none;
 	transition: all 50ms linear;

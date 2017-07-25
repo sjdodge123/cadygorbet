@@ -31,7 +31,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12 post-title-div">
-            <a href="">4th of July Cookout</a>
+            <a href=""><p>4th of July Cookout</p></a>
         </div>
     </div>
 </div>
