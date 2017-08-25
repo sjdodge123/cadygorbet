@@ -72,9 +72,17 @@
                 <!-- Blog Posts -->
                 <section class="col-md-8">
                     <div class="blog-post-container">
+
+                        <!--
+                        <div class="blog-post">
+                            <p><date>August 24, 2017</date></p>
+                            <a href="content/posts/DIY_Hydrangea_Wreath/DIY_Hydrangea_Wreath.php">DIY Hydrangea Wreath<img src="content/posts/DIY_Hydrangea_Wreath/thumbnail.jpg" alt="DIY Hydrangea Wreath" class="img-fluid"></a>
+                        </div>
+                        -->
+
                         <div class="blog-post">
                             <p><date>July 25, 2017</date></p>
-                            <a href="content/posts/Craft_Storage_and_Organization/Craft_Storage_and_Organization.php">Craft Storage and Organization<img src="content/posts/Craft_Storage_and_Organization/thumbnail.jpg" alt="Craft_Storage_and_Organization" class="img-fluid"></a>
+                            <a href="content/posts/Craft_Storage_and_Organization/Craft_Storage_and_Organization.php">Craft Storage and Organization<img src="content/posts/Craft_Storage_and_Organization/thumbnail.jpg" alt="Craft Storage and Organization" class="img-fluid"></a>
                         </div>
                         <div class="blog-post">
                             <p><date>July 6, 2017</date></p>
@@ -84,6 +92,7 @@
                             <p><date>June 28, 2017</date></p>
                             <a href="content/posts/Patriotic_Summer_Decor/Patriotic_Summer_Decor.php">Patriotic Summer Décor<img src="content/posts/Patriotic_Summer_Decor/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
                         </div>
+                        
                         
                     </div>
                 </section>

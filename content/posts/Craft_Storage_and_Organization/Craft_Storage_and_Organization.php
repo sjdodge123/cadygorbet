@@ -49,11 +49,11 @@
     <div class="row">
         <div class="col-md-8 blog-text">
 
-            <p>Over the years, I’ve accumulated a lot of different crafting supplies. Some stuff I’ve bought on a whim, some is left over from other projects. Sometimes I just don’t like throwing stuff away if I feel I can do something or make something with it. From fabric to paint to wood to jewelry, I have a lot of different crafting items. The space in which I keep all of my materials had gotten pretty messy, so I recently cleaned and reorganized it. So for this post I wanted to share with you how I store and organize all of my supplies. 
+            <p>Over the years, I’ve accumulated a lot of different crafting supplies. Some stuff I’ve bought on a whim, some is left over from other projects. Sometimes, I just don’t like throwing stuff away if I feel I can do something or make something with it. From fabric to paint to wood to jewelry, I have a lot of different crafting items. The space in which I keep all of my materials had gotten pretty messy, so I recently cleaned and reorganized it. So for this post I wanted to share with you how I store and organize all of my supplies. 
             </p>
             <br/>
 
-			<p>I keep all of my crafting supplies in our spare bedroom closet. When I was first setting up the space, I knew I wanted some sort of shelving or bookcase type thing to keep items more streamlined and assessable. Having things easy to locate and reach is important because I hate not knowing where things are or having to rummage to find certain items. I ended up purchasing a few different storage cube pieces from Michaels craft store, and I think they work great in the space. 
+			<p>I keep all of my crafting supplies in our spare bedroom closet. When I was first setting up the space, I knew I wanted some sort of shelving or bookcase type thing to keep items more streamlined and assessable. Keeping things easy to locate and reach is important because I hate not knowing where things are or having to rummage to find certain items. I ended up purchasing a few different storage cube pieces from Michaels craft store, and I think they work great in the space. 
  			</p>
  			<br/>
 
@@ -63,7 +63,7 @@
             <a href="sixcubeunit.jpg" data-toggle="lightbox" data-gallery="Craft_Storage_and_Organization" data-type="image"><img src="sixcubeunit.jpg" alt="6 cube storage unit for organizing craft supplies" class="img-fluid"></a>
             <br/>
 
-            <p>I was lucky enough to find this a few months back on clearance at Michaels. Unfortunately, since it was on clearance that specific piece is no longer available, but cube units are very popular right now and I’ve seen them everywhere (Target, Wal-mart).  Now, I will say that it’s not the best quality, but for the price I figured it was good enough for sitting in the closet. I do love the overall unit though. I purchased some fabric inserts from Target when they were on sale for $5, and added them to the cubes. They help with storage and overall just make the unit look nicer. I currently have them filled with glass jars that I keep from old candles. I just can’t bring myself to throw perfectly good glass containers away, but they’re a little difficult to store. With the bins, it hides all the jars and keeps them in a secure place where they won’t get knocked over or easily break. 
+            <p>I was lucky enough to find this a few months back on clearance at Michaels. Unfortunately, since it was on clearance that specific piece is no longer available, but cube units are very popular right now and I’ve seen them everywhere (Target, Wal-mart).  Now, I will say that it’s not the best quality, but for the price I figured it was good enough for sitting in the closet. I do love the overall unit though. I purchased some fabric inserts from Target when they were on sale for $5, and added them to the cubes. They help with storage and overall just make the unit look nicer. I currently have them filled with glass jars that I save from old candles. I just can’t bring myself to throw perfectly good glass containers away, but they’re a little difficult to store. With the bins, it hides all the jars and keeps them in a secure place where they won’t get knocked over or easily break. 
             </p>
             <br/>
 
@@ -73,7 +73,7 @@
             <a href="opencubeunits.jpg" data-toggle="lightbox" data-gallery="Craft_Storage_and_Organization" data-type="image"><img src="opencubeunits.jpg" alt="storage cubes for craft supply organization" class="img-fluid"></a>
             <br/>
 
-            <p>They are from the Recollections scrapbook storage section and are sold individually, so you can create your own unit. These pieces are the 14” open cubes and have inserts (sold separately) with dividers and drawers (right). Now, for the two top left sections, I only bought the insert pieces and not the open cube they fit into. I was trying to save money and didn’t think the actual cube served any real purpose if I was just going to buy the inserts anyway. I will say that as a result, the drawers are not completely stable, and those pieces are now slightly smaller than the rest of the cubes. I don’t really mind this, but I may eventually get two more open cubes to ‘finish’ it. 
+            <p>They are from the <a href="https://www.michaels.com/search?q=storage%20cubes">Recollections scrapbook storage</a> section and are sold individually, so you can create your own unit. These pieces are the 14” open cubes and have inserts (sold separately) with dividers and drawers (right). Now, for the two top left sections, I only bought the insert pieces and not the open cube they fit into. I was trying to save money and didn’t think the actual cube served any real purpose if I was just going to buy the inserts anyway. I will say that as a result, the drawers are not completely stable, and those pieces are now slightly smaller than the rest of the cubes. I don’t really mind this, but I may eventually get two more open cubes to ‘finish’ it. 
 			</p>
 			<br/>
 
@@ -137,7 +137,7 @@
             <a href="sewingmachine.jpg" data-toggle="lightbox" data-gallery="Craft_Storage_and_Organization" data-type="image"><img src="sewingmachine.jpg" alt="sewing machine and sewing supply box" class="img-fluid"></a>
             <br/>
 
-            <p> But on the right side, I have something that I’m pretty excited about. Wrapping paper can be difficult to store neatly and keep organized, but I was seeing a lot of people on Pinterest using the plastic bag holders from Ikea to store their paper. So, I picked up a few of them and stuck them to the inside of the closet wall. 
+            <p> But on the right side, I have something that I’m pretty excited about. Wrapping paper can be difficult to store neatly and keep organized, but I was seeing a lot of people on Pinterest using the <a href="http://www.ikea.com/us/en/catalog/products/80010222/">plastic bag holders from Ikea</a> to store their paper. So, I picked up a few of them and stuck them to the inside of the closet wall. 
             </p>
 
             <a href="wrappingpaperstorage.jpg" data-toggle="lightbox" data-gallery="Craft_Storage_and_Organization" data-type="image"><img src="wrappingpaperstorage.jpg" alt="Ikea bag holder as wrapping paper storage" class="img-fluid"></a>
