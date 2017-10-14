@@ -50,6 +50,11 @@
         <div class="col-md-8 blog-text">
             <p>I recently made a wreath for my front door using hydrangeas. I thought it turned out beautifully, so I wanted to share how I made it. It’s very easy to put together, and because the hydrangeas are so lush, it doesn’t take a lot of pieces to make the wreath look full. I was inspired by <a href="https://www.pinterest.com/pin/415034921893798644/">this wreath</a> that I saw on Pinterest (which links to an <a href="https://www.etsy.com/shop/HomeHearthGarden?ref=l2-shopheader-name">Etsy shop</a> that sells very beautiful handmade wreaths).
             </p>
+
+            <p>This is how mine turned out.
+            </p>
+            <a href="summerhydrangeawreath.jpg" data-toggle="lightbox" data-gallery="DIY_Hydrangea_Wreath" data-type="image"><img src="summerhydrangeawreath.jpg" alt="DIY Hydrangea Wreath Supplies, DIY Wreath, DIY Home Decor, Summer Decor" class="img-fluid"></a>
+            <br/>
             <br/>
 
             <p>So here’s what you’ll need to make this wreath..
@@ -79,12 +84,12 @@
             <p><strong>Step 2</strong>
             </p>
 
-            <p>Position the flowers on your wreath frame to see how you would like them to be arranged. The wreath frame is divided into 9 sections, so adding one flower to each section gives you the perfect spacing. Attach them using your floral wire.
+            <p>Arrange the flowers on your wreath frame to see how you would like them to be positioned. The wreath frame is divided into 9 sections, so adding one flower to each section gives you the perfect spacing. Attach them using your floral wire.
             </p>
 
             <a href="onefloweronwreath.jpg" data-toggle="lightbox" data-gallery="DIY_Hydrangea_Wreath" data-type="image"><img src="onefloweronwreath.jpg" alt="DIY Hydrangea Wreath, DIY Wreath, DIY Home Decor, Summer Decor" class="img-fluid"></a>
 
-            <p>I cut about a foot of wire for each flower. Begin by weaving the wire through the center of the flower and attaching the base of the hydrangea to the frame, wrapping the wire around the frame until it feels secure. Attach a few other stem pieces to the frame, just to stabilize it a bit more and to help it keep its shape.
+            <p>I cut about a foot of wire for each flower. Begin by weaving the wire through the center of the flower and attaching the base of the hydrangea to the frame, wrapping the wire around the frame until it feels secure. Attach a few other pieces of the flower to the frame, just to stabilize it a bit more and to help it keep its shape.
             </p>
 
             <a href="flowerwiring1.jpg" data-toggle="lightbox" data-gallery="DIY_Hydrangea_Wreath" data-type="image"><img src="flowerwiring1.jpg" alt="DIY Hydrangea Wreath, DIY Wreath, DIY Home Decor, Summer Decor" class="img-fluid"></a>

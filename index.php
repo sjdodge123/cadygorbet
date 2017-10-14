@@ -42,6 +42,9 @@
                     <div class="carousel-item">
                       <div id="thirdImage" class="slide-image"></div>
                     </div>
+                    <div class="carousel-item">
+                      <div id="fourthImage" class="slide-image"></div>
+                    </div>
                   </div>
 
                   <!-- Arrows -->
@@ -73,21 +76,37 @@
                 <section class="col-md-8">
                     <div class="blog-post-container">
 
-                        <!--
+    
+                        <div class="blog-post">
+                            <p><date>October 13, 2017</date></p>
+                            <a href="content/posts/Halloween_Decor/Halloween_Decor.php">Halloween Decor<img src="content/posts/Halloween_Decor/thumbnail.jpg" alt="Halloween_Decor" class="img-fluid"></a>
+                        </div>
+
+                        <div class="blog-post">
+                            <p><date>October 4, 2017</date></p>
+                            <a href="content/posts/Fall_Home_Decor/Fall_Home_Decor.php">Fall Home Decor<img src="content/posts/Fall_Home_Decor/thumbnail.jpg" alt="Fall_Home_Decor" class="img-fluid"></a>
+                        </div>
+
+                        <div class="blog-post">
+                            <p><date>September 25, 2017</date></p>
+                            <a href="content/posts/DIY_Autumnal_Porch_Sign/DIY_Autumnal_Porch_Sign.php">DIY Autumnal Porch Sign<img src="content/posts/DIY_Autumnal_Porch_Sign/thumbnail.jpg" alt="DIY_Autumnal_Porch_Sign" class="img-fluid"></a>
+                        </div>
+
                         <div class="blog-post">
                             <p><date>August 24, 2017</date></p>
                             <a href="content/posts/DIY_Hydrangea_Wreath/DIY_Hydrangea_Wreath.php">DIY Hydrangea Wreath<img src="content/posts/DIY_Hydrangea_Wreath/thumbnail.jpg" alt="DIY Hydrangea Wreath" class="img-fluid"></a>
                         </div>
-                        -->
 
                         <div class="blog-post">
                             <p><date>July 25, 2017</date></p>
                             <a href="content/posts/Craft_Storage_and_Organization/Craft_Storage_and_Organization.php">Craft Storage and Organization<img src="content/posts/Craft_Storage_and_Organization/thumbnail.jpg" alt="Craft Storage and Organization" class="img-fluid"></a>
                         </div>
+
                         <div class="blog-post">
                             <p><date>July 6, 2017</date></p>
                             <a href="content/posts/4th_of_July_Cookout/4th_of_July_Cookout.php">4th of July Cookout<img src="content/posts/4th_of_July_Cookout/thumbnail.jpg" alt="4th of July Cookout" class="img-fluid"></a>
                         </div>
+
                         <div class="blog-post">
                             <p><date>June 28, 2017</date></p>
                             <a href="content/posts/Patriotic_Summer_Decor/Patriotic_Summer_Decor.php">Patriotic Summer Décor<img src="content/posts/Patriotic_Summer_Decor/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>

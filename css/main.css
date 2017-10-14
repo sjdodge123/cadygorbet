@@ -198,6 +198,9 @@ footer {
 #thirdImage{
 	background-image:url(../img/example3.jpg);
 }
+#fourthImage{
+	background-image:url(../img/example4.jpg);
+}
 
 @media screen and (max-width: 1300px) {
 
