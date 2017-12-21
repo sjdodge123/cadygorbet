@@ -1,3 +1,16 @@
+@font-face{
+	font-family: "Sweet Pea";
+	src:url("../fonts/Sweet Pea_2.ttf");
+}
+@font-face{
+	font-family: "bernadette_rough";
+	src:url("../fonts/bernadette_rough.ttf");
+}
+@font-face{
+	font-family: "trendsetter-Regular";
+	src:url("../fonts/trendsetter-Regular.ttf");
+}
+
 html a{
 	line-height: 88%;
 	color: #000000;
@@ -23,17 +36,17 @@ footer {
 .title-div{
 	margin-top: 100px;
 	text-align: center;
-	font-size: 90px;
+	font-size: 100px;
 	letter-spacing: 10px;
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'bernadette_rough', sans-serif;
 	font-variant: small-caps;
 }
 .subtitle-div{
 	margin-bottom: 40px;
 	text-align: center;
-	font-size: 30px;
+	font-size: 35px;
 	letter-spacing: 5px;
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Sweet Pea', sans-serif;
 }
 .post-title-div{
 	margin-top: 80px;
@@ -42,7 +55,7 @@ footer {
 	letter-spacing: 5px;
 	border-bottom: solid;
 	border-width: 1.5px;
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Sweet Pea', sans-serif;
 	font-variant: small-caps;
 }
 
@@ -78,7 +91,7 @@ footer {
 }
 .blog-post a{
 	font-size: 60px;
-	font-family: 'Rokkitt', serif;
+	font-family: 'Sweet Pea', serif;
 	font-variant: small-caps;
 }
 .blog-post-socials {
@@ -118,6 +131,29 @@ footer {
 	text-align: justify;
 	font-size: 23px;
 	font-family: 'Rokkitt', serif;
+}
+.blog-text .tip{
+	margin-top: 10px;
+	text-align: justify;
+	font-size: 18px;
+	text-indent: 50px;
+	border:solid;
+	border-color: #f06292;
+	border-width: 1px;
+	padding: 10px;
+	padding-top: 7px;
+	font-family: 'Rokkitt', serif;
+	background-image: url("../img/tip.png");
+	background-repeat: no-repeat;
+}
+.blog-text ul{
+	margin-top: 10px;
+	text-align: justify;
+	font-size: 23px;
+	font-family: 'Rokkitt', serif;
+}
+.blog-text .halloween ul{
+	list-style-image: url("../img/pumpkin_icon.png");
 }
 .blog-text a{
 	font-weight: bold;
@@ -176,7 +212,7 @@ footer {
 .navbar-default .navbar-brand {
 	font-size: 28px;
 	letter-spacing: 3px;
-	font-family: 'News Cycle', sans-serif;
+	font-family: 'Sweet Pea', sans-serif;
 	font-variant: small-caps;
     color: #777;
 }

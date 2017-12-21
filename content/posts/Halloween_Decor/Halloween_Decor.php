@@ -48,11 +48,11 @@
 <div class="container">
     <div class="row">
         <div class="col-md-8 blog-text">
-            <p>It's Friday the 13th of October, and Halloween is right around the corner, so I thought it was the perfect opportunity to share some Halloween home decor. I recenlty posted a <a href="http://cadygorbet.com/content/posts/Fall_Home_Decor/Fall_Home_Decor.php">fall home decor</a> blog, so I also wanted to make mention of how I mix together my fall and Halloween decor. I didn't want it to be a lot of work to change out every fall decor piece to Halloween, so I kept a lot of the same stuff up, I just added spiderwebs to make it a bit spookier. A few of the fall pieces I took down and replaced with Halloween items (mostly on the mantle), but after Halloween I'm going to put back the autumn pieces until Thanksgiving is over. I don't want this post to get too text heavy, but I will try to list where everything is from.</p>
+            <p>It's Friday the 13th of October, and Halloween is right around the corner, so I thought it was the perfect opportunity to share some Halloween home decor. I recently posted a <a href="http://cadygorbet.com/content/posts/Fall_Home_Decor/Fall_Home_Decor.php">fall home decor</a> blog, so I also wanted to make mention of how I mix together my fall and Halloween decor. I didn't want it to be a lot of work to change out every fall decor piece to Halloween, so I kept a lot of the same stuff up, I just added spiderwebs to make it a bit spookier. A few of the fall pieces I took down and replaced with Halloween items (mostly on the mantle), but after Halloween I'm going to put back the autumn pieces until Thanksgiving is over. I don't want this post to get too text heavy, but I will try to list where everything is from.</p>
 
             <br/>
 
-            <p>Here's the overview of our livingroom area. You'll notice that most of my decorating consisted of adding spiderwebs to decor that was already up and sticking paper bats everywhere. It was super easy, and I think just those two small, inexpensive things make a big enough statment.</p>
+            <p>Here's the overview of our living room area. You'll notice that most of my decorating consisted of adding spiderwebs to decor that was already up and sticking paper bats everywhere. It was super easy, and I think just those two small, inexpensive things make a big enough statement.</p>
 
             <br/>
             
@@ -113,8 +113,8 @@
             <div class="center">
                 <p>Pumpkin Lantern - Dollar Tree</p>
                 <p>Ghost - CVS</p>
-                <p>Happy Halloween and Mummy Minautre - Michaels (2016)</p>
-                <p>Again, Michaels has holiday minatures for Halloween, but I didn't find this year's selection as good as last year's.</p>
+                <p>Happy Halloween and Mummy Miniature - Michaels (2016)</p>
+                <p>Again, Michaels has holiday miniatures for Halloween, but I didn't find this year's selection as good as last year's.</p>
             </div>
 
             <br/>
@@ -122,7 +122,7 @@
             <a href="mantle2.jpg" data-toggle="lightbox" data-gallery="Halloween_Decor" data-type="image"><img src="mantle2.jpg" alt="Halloween, Halloween Decor, Halloween Decorations, Trick-or-Treat, Spiderwebs" class="img-fluid"></a>
             <div class="center">
                 <p>Trick or Treat Sign - Walmart</p>
-                <p>Ghost Minature - Michaels (2016)</p>
+                <p>Ghost Miniature - Michaels (2016)</p>
             </div>
 
             <br/>
@@ -245,7 +245,7 @@
             <a href="yard1.jpg" data-toggle="lightbox" data-gallery="Halloween_Decor" data-type="image"><img src="yard1.jpg" alt="Halloween, Halloween Decor, Halloween Decorations, Pumpkins, Jack-O-Lantern, Pumpkin Patch" class="img-fluid"></a>
 
             <div class="center">
-                <p>Solar Ceramic Jack-O-Lantern - Marshalls</p>
+                <p>Solar Jack-O-Lantern - Marshalls</p>
                 <p>I was so excited when I found this at Marshalls. To me, it has the perfect Jack-o-Lantern face, and it's solar powered, so I don't ever have to worry about turning in on at night!</p>
             </div>
 
@@ -256,7 +256,7 @@
             <br/>
             <br/>
 
-             <p>Halloween night doesn't feel quite the same now that I'm an adult, but I think it's still fun to decorate and watch Halloween movies and pass cout candy to trick-or-treaters. I really enjoyed decorating our house for Halloween, and I hope you ejoyed seeing how it turned out. Hopefully you got some ideas or inspiration for your own homes. If you're curious about any of the regular fall decor pieces, you can check out my <a href="http://cadygorbet.com/content/posts/Fall_Home_Decor/Fall_Home_Decor.php">previous post</a>; I share pictures as well as list where everything is from. Thanks for checking out this post!</p>
+             <p>Halloween night doesn't feel quite the same now that I'm an adult, but I think it's still fun to decorate and watch Halloween movies and pass out candy to trick-or-treaters. I really enjoyed decorating our house for Halloween, and I hope you enjoyed seeing how it turned out. Hopefully you got some ideas or inspiration for your own homes. If you're curious about any of the regular fall decor pieces, you can check out my <a href="http://cadygorbet.com/content/posts/Fall_Home_Decor/Fall_Home_Decor.php">previous post</a>; I share pictures as well as list where everything is from. Thanks for checking out this post!</p>
 
             <div class="center">
                 <p>Happy Halloween!</p>

@@ -74,8 +74,32 @@
             <div class="row">
                 <!-- Blog Posts -->
                 <section class="col-md-8">
+                   
                     <div class="blog-post-container">
+                            <div class="blog-post">
+                            <p><date>December 14, 2017</date></p>
+                            <a href="content/posts/Christmas_Decor_2017/Christmas_Decor_2017.php">Christmas Decor 2017<img src="content/posts/Christmas_Decor_2017/thumbnail.jpg" alt="Christmas_Decor_2017" class="img-fluid"></a>
+                        </div>
 
+
+                        <div class="blog-post">
+                            <p><date>December 11, 2017</date></p>
+                            <a href="content/posts/DIY_Christmas_Sign/DIY_Christmas_Sign.php">DIY Christmas Sign<img src="content/posts/DIY_Christmas_Sign/thumbnail.jpg" alt="DIY_Christmas_Sign" class="img-fluid"></a>
+                        </div>
+
+                        
+                        <div class="blog-post">
+                            <p><date>December 5, 2017</date></p>
+                            <a href="content/posts/Christmas_Tree_and_Ornaments/Christmas_Tree_and_Ornaments.php">How I Decorate My Christmas Tree + New Ornaments for 2017<img src="content/posts/Christmas_Tree_and_Ornaments/thumbnail.jpg" alt="Christmas_Tree_and_Ornaments" class="img-fluid"></a>
+                        </div>
+
+
+                          
+                        <div class="blog-post">
+                            <p><date>October 21, 2017</date></p>
+                            <a href="content/posts/Craft_Pumpkin_Carving/Craft_Pumpkin_Carving.php">Craft Pumpkin Carving<img src="content/posts/Craft_Pumpkin_Carving/thumbnail.jpg" alt="Craft_Pumpkin_Carving" class="img-fluid"></a>
+                        </div>
+                            
     
                         <div class="blog-post">
                             <p><date>October 13, 2017</date></p>
