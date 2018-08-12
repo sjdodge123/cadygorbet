@@ -18,10 +18,10 @@
     	<div class="row">
     		<div class="col-12 blog-text">
         		<p>Hi, and welcome to my blog!</p>
-        		<p>So, my fiancé and I moved into our first house together in October of 2016. Though stressful and, 
+        		<p>My husband and I moved into our first house together in October of 2016. Though stressful and, 
         			at times, an overwhelming undertaking, I was very excited to have our own blank canvas to fill and make into a home.</p>
 
-        		<p>I’ve always been a pretty crafty person; I would often do little projects with my grandma growing up. I’m also very organized 
+        		<p>I’ve always been a pretty crafty person; I would often do projects with my grandma growing up. I’m also very organized 
         			and take pride in presentation. So when I began using Pinterest and following other online communities (blogs, Youtube) dedicated to DIYs, décor, 
         			and home decorating, I was elated to find so much inspiration and so many projects I couldn’t wait to try. At that time in my life, I was just starting college 
         			and living at home with my parents, so my DIY décor was mostly limited to my bedroom. Now, I’m very lucky and happy to have my own, larger space to work in and really personalize.</p>
@@ -39,9 +39,9 @@
                 <br/>
         		<p>My name is Cady. I have a bachelor’s degree in English. My interests include DIY projects,
         		   home décor, lifestyle, photography, movies, and I am very family oriented. I wouldn’t consider myself
-        		    to be inherently creative, but I love creating things. If I see something I like, I’ll try to make it 
-        		    because there’s just a higher level of accomplishment I get knowing that I created something with my own two hands. 
-        		    Even if I’m just arranging pieces I buy or setting up décor in a new space, I like knowing I contributed to making something more beautiful and more my own.</p>
+        		    to be inherently creative, but I love creating things. If I see something I like, I’ll try to make it on my own 
+        		    because I feel a sense of accomplishment knowing that I created something with my own two hands. 
+        		    Even if I’m just arranging pieces I buy or setting up décor in a new space, I like knowing I contributed to making something more beautiful and more my own style.</p>
 
         		<p>I’m very organized and a bit of a perfectionist. 
     				I’m a homebody and love working on projects around the house. 

@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>How I Decorate My Christmas Tree + New Ornaments for 2017</title>
+	<title>Decorating My Christmas Tree + New Ornaments for 2017</title>
 	<meta property="og:image" content="thumbnail.jpg"/>
 	<meta property="og:title" content="How I Decorate My Christmas Tree + New Ornaments for 2017"/>
 	<meta property="og:image:width" content="1430"/>
@@ -31,7 +31,7 @@
 <div class="container">
     <div class="row">
         <div class="col-12 post-title-div">
-            <a href=""><p>How I Decorate My Christmas Tree + New Ornaments for 2017</p></a>
+            <a href=""><p>Decorating My Christmas Tree + New Ornaments for 2017</p></a>
         </div>
     </div>
 </div>
@@ -245,7 +245,7 @@
             data-size="large"
             link rel="canonical"
             ></a>
-            <a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a>
+            <a data-pin-do="buttonPin" data-pin-save="false" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a>
             <div class="fb-like" data-href="http://www.cadygorbet.com/content/posts/Christmas_Tree_and_Ornaments/Christmas_Tree_and_Ornaments.php" data-width="50" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
         </div>
     </div>

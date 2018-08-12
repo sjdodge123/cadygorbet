@@ -1,4 +1,21 @@
 @font-face{
+	font-family: "Shellaclean";
+	src:url("../fonts/Shellaclean.ttf");
+}
+@font-face{
+	font-family: "adelline";
+	src:url("../fonts/adelline.ttf");
+}
+@font-face{
+	font-family: "DeliciousAdventures";
+	src:url("../fonts/DeliciousAdventures.ttf");
+
+}
+@font-face{
+	font-family: "SweetPea";
+	src:url("../fonts/SweetPea.ttf");
+}
+@font-face{
 	font-family: "Sweet Pea";
 	src:url("../fonts/Sweet Pea_2.ttf");
 }
@@ -38,15 +55,14 @@ footer {
 	text-align: center;
 	font-size: 100px;
 	letter-spacing: 10px;
-	font-family: 'bernadette_rough', sans-serif;
-	font-variant: small-caps;
+	font-family: 'SweetPea', sans-serif;
 }
 .subtitle-div{
 	margin-bottom: 40px;
 	text-align: center;
 	font-size: 35px;
 	letter-spacing: 5px;
-	font-family: 'Sweet Pea', sans-serif;
+	font-family: 'adelline', sans-serif;
 }
 .post-title-div{
 	margin-top: 80px;
@@ -55,12 +71,15 @@ footer {
 	letter-spacing: 5px;
 	border-bottom: solid;
 	border-width: 1.5px;
-	font-family: 'Sweet Pea', sans-serif;
-	font-variant: small-caps;
+	font-family: 'adelline', sans-serif;
 }
 
 .image-border{
 	border-top: solid;
+}
+
+.underline {
+	text-decoration: underline;
 }
 .title-div a{
 	text-decoration: none;
@@ -91,8 +110,11 @@ footer {
 }
 .blog-post a{
 	font-size: 60px;
-	font-family: 'Sweet Pea', serif;
-	font-variant: small-caps;
+	font-family: 'adelline', serif;
+	margin-bottom:10px;
+}
+.blog-post a img{
+	margin-top:12px;
 }
 .blog-post-socials {
 	margin-top: 10px;

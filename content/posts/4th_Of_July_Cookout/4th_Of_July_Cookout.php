@@ -129,7 +129,8 @@
             data-size="large"
             link rel="canonical"
             ></a>
-            <a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a>
+            <a data-pin-do="buttonPin" data-pin-save="false" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a>
+
 
             <div class="fb-like" data-href="http://www.cadygorbet.com/content/posts/4th_of_July_Cookout/4th_of_July_Cookout.php" data-width="50" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
         </div>
