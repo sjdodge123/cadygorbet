@@ -4,10 +4,10 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="navbar-brand">
-                <a href="http://www.pinterest.com/cadygorbet/" class="navbar-brand">
+                <a href="http://www.pinterest.com/cadydodge/" class="navbar-brand">
                     <i class="fa fa-pinterest-p" aria-hidden="true"></i>
                 </a>
-                <a href="http://instagram.com/cadygorbet" class="navbar-brand">
+                <a href="http://instagram.com/harborandspruce" class="navbar-brand">
                     <i class=" fa fa-instagram" aria-hidden="true"></i>
                 </a>
                 <a href="http://www.twitter.com/cady_gorbet/" class="navbar-brand">
@@ -25,6 +25,6 @@
                     </li>
                 </ul>
             </div>
-            <a id="cady-brand" class="navbar-brand" href="index.php">Cady Gorbet</a>
+            <a id="cady-brand" class="navbar-brand" href="index.php">H+S</a>
         </nav>
 </header>

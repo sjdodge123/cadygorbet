@@ -5,13 +5,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-6">
-                        <a href="http://www.pinterest.com/cadygorbet/">
+                        <a href="http://www.pinterest.com/cadydodge/">
                             <i class="fa fa-pinterest-p" aria-hidden="true"></i>
                             <p>Pinterest</p>
                         </a>
                     </div>
                     <div class="col-6">
-                        <a href="http://instagram.com/cadygorbet/">
+                        <a href="http://instagram.com/harborandspruce/">
                             <i class=" fa fa-instagram" aria-hidden="true"></i>
                             <p>Instagram</p>
                         </a>
@@ -25,7 +25,7 @@
                         </a>
                     </div>
                     <div class="col-6">
-                        <a href="mailto:cadygorbetblog@gmail.com">
+                        <a href="mailto:harborandspruce@gmail.com">
                             <i class="fa fa-envelope-o" aria-hidden="true"></i>
                             <p>Email</p>
                         </a>

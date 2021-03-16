@@ -248,10 +248,10 @@ footer {
 
 
 #firstImage{
-	background-image:url(../img/example1.jpg);
+	background-image:url(../img/example2.jpg);
 }
 #secondImage{
-	background-image:url(../img/example2.jpg);
+	background-image:url(../img/example1.jpg);
 }
 #thirdImage{
 	background-image:url(../img/example3.jpg);

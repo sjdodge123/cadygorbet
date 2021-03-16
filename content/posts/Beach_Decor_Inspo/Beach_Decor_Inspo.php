@@ -50,15 +50,32 @@
         <div class="col-md-8 blog-text">
 
         	
-            <p>With summer coming to an end soon, I wanted to share my last summery decor post for this year. This post is going to be some beachy decor inspiration. It's great for a beach or lake house, or if you just want relaxing beach vibes wherever you live. Over the last year, my mom has been redoing the guest room in her house, and she decided to go with a beach theme. We worked on re-painting and redecorating the whole space, so I thought I'd share how the final room looks.</p>
+            <p>With summer coming to an end soon, I wanted to share my last summer themed decor post for the season. Over the last year, my mom has been redoing the guest room in her house, and she decided to go with a beach theme. We worked on re-painting and redecorating the whole space, so I thought I'd share how the final room looks. This post is going to be a beachy decor inspiration post. It's great for a beach or lake house, or if you just want relaxing beach vibes wherever you live.</p>
 
-            <p>This isn't going to be a before and after room transformation, because I don't have before pictuers, and also we didn't purchase everything at once. We went out shopping on several occasions and went to several different stores to find nice decor pieces. I will try to mention where everything is from, but I may not remember some, and some of them may not longer be in stock. But I hope you enjoy and can take some inspiration an ideas from this post, even if you can't find the exact pieces.</p>
+            <p>This isn't going to be a before and after room transformation, because I don't have before pictures, and also we didn't purchase everything at once. We went out shopping on several occasions and went to a bunch of different stores to find nice decor pieces. I will try to mention where everything is from, but I may not remember some, and some of them may no longer be available. But I hope you enjoy and can take some inspiration and ideas from this post, even if you can't find the exact pieces.</p>
+
+            <br/>
 
             <a href="roomoverview1.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="roomoverview1.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Paint - Valspar Signature Paint in 'Blue Whisper'</p>      
+            </div>
+
+            <br/>
 
             <a href="roomoverview2.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="roomoverview2.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Blue Hanging Glass Globe - And That!</p>      
+            </div>
+
+            <br/>
 
             <a href="roomoverview3.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="roomoverview3.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Mirror - Walmart</p>      
+            </div>
+
+            <br/>
 
             <a href="bed.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="bed.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
              <div class="center">
@@ -66,10 +83,14 @@
                 <br/>Blanket - Home Goods</p>      
             </div>
 
+            <br/>
+
             <a href="pillow.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="pillow.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
              <div class="center">
                 <p>Pillow - Personalization.com</p>      
             </div>
+
+            <br/>
 
             <a href="nightstand.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="nightstand.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
              <div class="center">
@@ -77,49 +98,132 @@
                 <br/>Lamp - Walmart</p>      
             </div>
 
+            <br/>
+
             <a href="coasters.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="coasters.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
-
-            <a href="sidetable.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="sidetable.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
-
-            <a href="bottles.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="bottles.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
-
              <div class="center">
-                <p>Bottles - Michaels (seashell twine and beachglass were added to bottles after purchase)</p>      
+                <p>Coasters - And That!</p>      
             </div>
 
+            <br/>
+
+            <a href="sidetable.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="sidetable.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Sofa Table - Wayfair</p>      
+            </div>
+
+            <br/>
+
+            <a href="bottles.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="bottles.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Bottles - Michaels (seashells, twine, and beachglass were added to bottles after purchase)</p>      
+            </div>
+
+            <br/>
+
             <a href="seashellmix.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="seashellmix.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+            <div class="center">
+                <p>Hobby Lobby</p>      
+            </div>
+
+            <br/>
 
             <a href="seagull.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="seagull.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
              <div class="center">
-                <p>Seagull - Home Goods</p>      
+                <p>Seagull - Hobby Lobby</p>      
             </div>
+
+            <br/>
 
             <a href="books.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="books.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
              <div class="center">
-                <p>Storage Books - Michaels</p>      
+                <p>Storage Books - Michaels
+                <br/>Shell - Michaels</p>      
             </div>
 
+            <br/>
+
             <a href="sailboat.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="sailboat.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Sailboat - Home Goods     
+            </div>  
+
+            <br/>
 
             <a href="tvstand.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="tvstand.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+              <div class="center">
+                <p>TV Stand - Target</p>      
+            </div>
+
+            <br/>
 
             <a href="tvstanddetails.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="tvstanddetails.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+              <div class="center">
+                <p>Storage Books - Michaels
+                <br/>Starfish - Michaels</p>      
+            </div>
+
+            <br/>
 
             <a href="jars.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="jars.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>These jars are from different stores, but I DIYed some beachy elements for them using twine, shells, and little blue rocks. You could most likely get all of these supplies at a craft store like Michaels or Hobby Lobby.</p>      
+            </div>
+
+            <br/>
 
             <a href="boxes.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="boxes.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Decorative Boxes - Michaels</p>      
+            </div>
+
+            <br/>
 
             <a href="driftwoodanchor.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="driftwoodanchor.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Anchor - Hobby Lobby</p>      
+            </div>
+
+            <br/>
 
             <a href="wallart3.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="wallart3.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Canvas Art - Hobby Lobby</p>      
+            </div>
+
+            <br/>
 
             <a href="happyplace.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="happyplace.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Wood Plaque - Amazon</p>      
+            </div>
+
+            <br/>
 
             <a href="betteronthewater.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="betteronthewater.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Wood Plaque - Joann</p>      
+            </div>
+
+            <br/>
 
             <a href="wallart2.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="wallart2.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>4 pc Frame Set - Amazon</p>      
+            </div>
+
+            <br/>
 
             <a href="wallart1.jpg" data-toggle="lightbox" data-gallery="Beach_Decor_Inspo" data-type="image"><img src="wallart1.jpg" alt="Summer Home Decor, Beach Decor, Beach House, Beach Room" class="img-fluid"></a>
+             <div class="center">
+                <p>Shutter Canvas Art (left) - Kirklands
+                <br/>Canvas Art (right) - Home Goods</p>      
+            </div>
+
+            <br/>
+
+         	<p>I hope you enjoyed this post. Thanks for reading!</p>
+
 
 
 

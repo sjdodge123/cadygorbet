@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>Cady Gorbet</title>
+    <title>Harbor and Spruce</title>
     <?php include "head.php"; ?>
 </head>
 <body>
@@ -10,12 +10,12 @@
     <div class="container">
         <div class="row">
             <div class="col-12 title-div">
-                <a href="index.php" title="Cady Gorbet" rel="home">Cady Gorbet</a>
+                <a href="index.php" title="Harbor and Spruce" rel="home">Harbor + Spruce</a>
             </div>
         </div>
         <div class="row">
             <div class="col-12 subtitle-div">
-                <p>Home Decor &nbsp;&nbsp;|&nbsp;&nbsp; DIY &nbsp;&nbsp;|&nbsp;&nbsp; Lifestyle &nbsp;&nbsp;|&nbsp;&nbsp; Photography</p>
+                <p>Home Decor &nbsp;&nbsp;|&nbsp;&nbsp; DIY &nbsp;&nbsp;|&nbsp;&nbsp; Lifestyle &nbsp;&nbsp;</p>
             </div>
         </div>
     </div>
@@ -75,44 +75,93 @@
             <div class="row">
                 <!-- Blog Posts -->
                 <section class="col-md-8">
+                    <div class="blog-post-container">
 
-                        <div class="blog-post-container">
-                            <div class="blog-post">
-                            <p><date>August 10, 2018</date></p>
+
+
+                        <div class="blog-post">
+                            <p><date>January 3, 2021</date></p>
+                            <a href="content/posts/Christmas_Home_Tour_2020/Christmas_Home_Tour_2020.php">Christmas Home Tour 2020<img src="content/posts/Christmas_Home_Tour_2020/thumbnail.jpg" alt="Christmas_Home_Tour_2020" class="img-fluid"></a>
+                        </div>
+                        
+
+                        <div class="blog-post">
+                            <p><date>September 21, 2020</date></p>
+                            <a href="content/posts/Nursery_Decor/Nursery_Decor.php">Nursery Decor<img src="content/posts/Nursery_Decor/thumbnail.jpg" alt="Nursery_Decor" class="img-fluid"></a>
+                        </div>
+                        
+                    	
+                    	<div class="blog-post">
+                            <p><date>August 19, 2020</date></p>
+                            <a href="content/posts/Teddy_Bear_Baby_Shower/Teddy_Bear_Baby_Shower.php">Teddy Bear Baby Shower<img src="content/posts/Teddy_Bear_Baby_Shower/thumbnail.jpg" alt="Teddy_Bear_Baby_Shower" class="img-fluid"></a>
+                        </div>
+
+
+                        <div class="blog-post">
+                            <p><date>August 6, 2020</date></p>
+                            <a href="content/posts/DIY_Baby_Blocks/DIY_Baby_Blocks.php">DIY Baby Blocks<img src="content/posts/DIY_Baby_Blocks/thumbnail.jpg" alt="DIY_Baby_Blocks" class="img-fluid"></a>
+                        </div>
+
+
+                        <div class="blog-post">
+                            <p><date>August 12, 2019</date></p>
+                            <a href="content/posts/DIY_Farmhouse_Tray/DIY_Farmhouse_Tray.php">DIY Farmhouse Tray<img src="content/posts/DIY_Farmhouse_Tray/thumbnail.jpg" alt="DIY_Farmhouse_Tray" class="img-fluid"></a>
+                        </div>
+
+
+                        <div class="blog-post">
+                            <p><date>March 10, 2019</date></p>
+                            <a href="content/posts/DIY_Rustic_Floating_Shelf/DIY_Rustic_Floating_Shelf.php">DIY Rustic Floating Shelf<img src="content/posts/DIY_Rustic_Floating_Shelf/thumbnail.jpg" alt="DIY_Rustic_Floating_Shelf" class="img-fluid"></a>
+                        </div>
+
+
+                        <div class="blog-post">
+                            <p><date>December 4, 2018</date></p>
+                            <a href="content/posts/Christmas_Home_Tour_2018/Christmas_Home_Tour_2018.php">Christmas Home Tour 2018<img src="content/posts/Christmas_Home_Tour_2018/thumbnail.jpg" alt="Christmas_Home_Tour_2018" class="img-fluid"></a>
+                        </div>
+
+
+                        <div class="blog-post">
+                            <p><date>August 29, 2018</date></p>
+                            <a href="content/posts/Fall_Dollar_Tree_DIYs/Fall_Dollar_Tree_DIYs.php">Fall Dollar Tree DIYs<img src="content/posts/Fall_Dollar_Tree_DIYs/thumbnail.jpg" alt="Fall_Dollar_Tree_DIYs" class="img-fluid"></a>
+                        </div>
+
+
+                        <div class="blog-post">
+                            <p><date>August 23, 2018</date></p>
+                            <a href="content/posts/Casual_Outfits_1/Casual_Outfits_1.php">Casual Outfit Inspiration<img src="content/posts/Casual_Outfits_1/thumbnail.jpg" alt="Casual_Outfits_1" class="img-fluid"></a>
+                        </div>
+
+
+                        <div class="blog-post">
+                            <p><date>August 13, 2018</date></p>
                             <a href="content/posts/Beach_Decor_Inspo/Beach_Decor_Inspo.php">Beach Decor Inspiration<img src="content/posts/Beach_Decor_Inspo/thumbnail.jpg" alt="Beach_Decor_Inspo" class="img-fluid"></a>
                         </div>
 
 
-                        <div class="blog-post-container">
-                            <div class="blog-post">
+                        <div class="blog-post">
                             <p><date>June 20, 2018</date></p>
                             <a href="content/posts/Summer_Lemon_Decor/Summer_Lemon_Decor.php">Summer Lemon Decor<img src="content/posts/Summer_Lemon_Decor/thumbnail.jpg" alt="Summer_Lemon_Decor" class="img-fluid"></a>
                         </div>
 
 
-                        <div class="blog-post-container">
-                            <div class="blog-post">
+                        <div class="blog-post">
                             <p><date>June 10, 2018</date></p>
                             <a href="content/posts/Easy_DIY_Canvas_Art/Easy_DIY_Canvas_Art.php">Easy DIY Canvas Art<img src="content/posts/Easy_DIY_Canvas_Art/thumbnail.jpg" alt="Easy_DIY_Canvas_Art" class="img-fluid"></a>
                         </div>
 
-               
-                        <div class="blog-post-container">
-                            <div class="blog-post">
+                       <div class="blog-post">
                             <p><date>May 20, 2018</date></p>
                             <a href="content/posts/DIY_Graduation_Wreath/DIY_Graduation_Wreath.php">DIY Graduation Wreath<img src="content/posts/DIY_Graduation_Wreath/thumbnail.jpg" alt="DIY_Graduation_Wreath" class="img-fluid"></a>
                         </div>
 
-
-                        <div class="blog-post-container">
-                            <div class="blog-post">
+                        <div class="blog-post">
                             <p><date>March 25, 2018</date></p>
                             <a href="content/posts/Spring_Home_Decor/Spring_Home_Decor.php">Decorating with Plants<img src="content/posts/Spring_Home_Decor/thumbnail.jpg" alt="Spring_Home_Decor" class="img-fluid"></a>
                         </div>
 
 
-                        <div class="blog-post-container">
-                            <div class="blog-post">
+                        <div class="blog-post">
                             <p><date>December 14, 2017</date></p>
                             <a href="content/posts/Christmas_Decor_2017/Christmas_Decor_2017.php">Christmas Decor 2017<img src="content/posts/Christmas_Decor_2017/thumbnail.jpg" alt="Christmas_Decor_2017" class="img-fluid"></a>
                         </div>
@@ -174,8 +223,7 @@
                             <p><date>June 28, 2017</date></p>
                             <a href="content/posts/Patriotic_Summer_Decor/Patriotic_Summer_Decor.php">Patriotic Summer Décor<img src="content/posts/Patriotic_Summer_Decor/thumbnail.jpg" alt="Fourth of July Couch Decor" class="img-fluid"></a>
                         </div>
-                        
-                        
+                           
                     </div>
                 </section>
 
@@ -201,7 +249,7 @@
             link rel="canonical"
             ></a>
             <a data-pin-do="buttonPin" data-pin-save="false" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a>
-            <div class="fb-like" data-href="https://www.facebook.com/cadygorbetblog/" data-width="50" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+            <div class="fb-like" data-href="https://www.facebook.com/harborandspruce/" data-width="50" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
         </div>
         
     </div>

@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>About - Cady Gorbet</title>
+    <title>About</title>
     <?php include "head.php"; ?>
 </head>
 <body>
@@ -9,7 +9,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 post-title-div">
-                <a href="about.php">About</a>
+                <a href="about.php">About Harbor + Spruce</a>
             </div>
         </div>
     </div>
